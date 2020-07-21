@@ -1,4 +1,4 @@
-![](https://github.com/annahri/st/raw/master/Screenshot%20from%202020-07-21%2008-04-04.png)
+![Screenshot](https://github.com/annahri/st/raw/master/Screenshot%20from%202020-07-21%2008-04-04.png)
 
 st - simple terminal
 --------------------
